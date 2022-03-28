@@ -6,4 +6,4 @@
 <br><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.nationalgeographic.fr%2Ffiles%2Fstyles%2Fimage_3200%2Fpublic%2Fseti-tomb-01.jpg%3Fw%3D1600%26h%3D900&imgrefurl=https%3A%2F%2Fwww.nationalgeographic.fr%2Fhistoire%2F2017%2F09%2Fegypte-decouverte-dun-tombeau-de-3-500-ans&tbnid=geiolC48RmhAKM&vet=12ahUKEwiBvb_Xqd72AhURTMAKHXKzD30QMygFegUIARDMAQ..i&docid=1bR3K6pqQxhK7M&w=1600&h=900&q=s%C3%A9pulture%20egypte&ved=2ahUKEwiBvb_Xqd72AhURTMAKHXKzD30QMygFegUIARDMAQ">Image4</a>
 ## infos
 <a href="https://fr.wikipedia.org/wiki/Rite_funéraire_dans_l%27Égypte_antique">source1</a>
-<a href="https://www.lumni.fr/article/le-mythe-du-roi-osiris">source2</a>
+<br><a href="https://www.lumni.fr/article/le-mythe-du-roi-osiris">source2</a>
