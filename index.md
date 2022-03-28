@@ -7,3 +7,4 @@
 ## infos
 <a href="https://fr.wikipedia.org/wiki/Rite_funéraire_dans_l%27Égypte_antique">source1</a>
 <br><a href="https://www.lumni.fr/article/le-mythe-du-roi-osiris">source2</a>
+<br><a href="Hisoire et géographie 6em">source3</a>
